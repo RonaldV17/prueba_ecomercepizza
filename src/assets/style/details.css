@@ -1,0 +1,32 @@
+.descripcion{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    align-items: center;
+}
+
+
+.namedesc{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: black; 
+}
+
+.detalle{
+    width: 30em;
+    height: 30em;
+}
+
+.imagen img{
+    width: 20em;
+    height: 20em;
+}
+
+.accion{
+    padding: 5em;
+}
+
+.mas{
+    margin: 2em;
+}

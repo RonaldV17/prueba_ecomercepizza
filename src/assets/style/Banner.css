@@ -1,0 +1,24 @@
+.portada{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 20em;
+    width: 100%;
+    background-image: url(https://www.recetasnestle.cl/sites/default/files/2022-03/tipos-de-pizzas-pepperoni.jpg_.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.nombre{
+    color: aliceblue;
+    align-items: center;
+    justify-content: center;
+}
+
+.slogan{
+    color: aliceblue;
+    align-items: center;
+    justify-content: center;
+}

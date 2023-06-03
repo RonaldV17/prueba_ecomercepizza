@@ -1,0 +1,57 @@
+.titulocarro{
+    color: black;
+}
+
+.total{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #ccc;
+    margin: 5em;
+}
+
+.datos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1em;
+
+}
+
+.foto{
+    width: 5em;
+    height: 5em;
+}
+
+.cantidad{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1em;
+}
+
+.eliminar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1em;
+}
+
+.pagar{
+    text-align: center;
+}
+
+.medidas{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.carritos{
+    padding: 3em;
+}
